@@ -1,5 +1,5 @@
 package playground
 
-package object uploader {
+package object uploader extends App{
 
 }
